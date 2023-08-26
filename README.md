@@ -1,5 +1,2 @@
-# Halo
-Nama saya adalah hazel
-Repo ini saya dberi nama tes Agar saya bisa membuat file github.
-
-Thankyou.
+# How to upload file to link github
+fork this repo
